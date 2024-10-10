@@ -1,0 +1,135 @@
+[
+    {
+      "title": "Lost",
+      "synopsis": "Après le crash de leur avion sur une île perdue, les survivants doivent apprendre à cohabiter et survivre dans cet environnement hostile. Bien vite, ils se rendent compte qu\\'une menace semble planer sur l\\'île...",
+      "image": "assets/series/serie-1.jpg",
+      "sortie": "2004",
+      "saisons": "6",
+      "episodes": "128",
+      "genre": " Action, Aventure, Drame",
+      "Trailer": "trailers/series/serie-1.mp4",
+      "serie": "videos/series/serie-1.avi"
+    },
+    {
+      "title": "Prison Break",
+      "synopsis": "Michael Scofield s\\'engage dans une véritable lutte contre la montre : son frère Lincoln est dans le couloir de la mort, en attente de son exécution. Persuadé de son innocence mais à court de solutions, Michael décide de se faire incarcérer à son tour dans le pénitencier d\\'état de Fox River pour organiser leur évasion...",
+      "image": "assets/series/serie-2.jpg",
+      "sortie": "2005",
+      "saisons": "5",
+      "episodes": "92",
+      "genre": "Drame, Thriller",
+      "Trailer": "trailers/series/serie-2.mp4",
+      "serie": "videos/series/serie-2.avi"
+    },
+    {
+      "title": "MR Robot",
+      "synopsis": "Elliot est un jeune programmeur anti-social qui souffre d\\'un trouble du comportement qui le pousse à croire qu\\'il ne peut rencontrer des gens qu\\'en les hackant. Il travaille pour une firme spécialisée dans la cyber-sécurité mais un homme connu sous le nom de Mr Robot l\\'approche un jour pour faire tomber une compagnie surpuissante qui fait partie de celles qu\\'il doit justement protéger...",
+      "image": "assets/series/serie-3.jpg",
+      "sortie": "2020",
+      "saisons": "4",
+      "episodes": "45",
+      "genre": "Drame, Thriller",
+      "Trailer": "trailers/series/serie-3.mp4",
+      "serie": "videos/series/serie-3.avi"
+    },
+    {
+      "title": "Reacher",
+      "synopsis": "Ancienne recrue de l\\'armée américaine, Jack Reacher s\\'est retiré de la police militaire. Son voyage à travers le pays l\\'amène à s\\'impliquer dans de périlleuses enquêtes.",
+      "image": "assets/series/serie-4.jpg",
+      "sortie": "2022",
+      "saisons": "3",
+      "episodes": "24",
+      "genre": "Action, Policier, Thriller",
+      "Trailer": "trailers/series/serie-4.mp4",
+      "serie": "videos/series/serie-4.avi"
+    },
+    {
+      "title": "Dexter",
+      "synopsis": "Brillant expert scientifique du service médico-légal de la police de Miami, Dexter Morgan est spécialisé dans l\\'analyse de prélèvements sanguins. Mais voilà, Dexter cache un terrible secret : il est également tueur en série. Un serial killer pas comme les autres, avec sa propre vision de la justice.",
+      "image": "assets/series/serie-5.jpg",
+      "sortie": "2006",
+      "saisons": "8",
+      "episodes": "96",
+      "genre": " Drame, Thriller",
+      "Trailer": "trailers/series/serie-5.mp4",
+      "serie": "videos/series/serie-5.avi"
+    },
+    {
+      "title": "Bionic Women",
+      "synopsis": "Suite à un accident de voiture, une jeune femme reçoit des greffes d\\'organes bioniques qui décuplent ses sens et ses capacités physiques. Elle est alors recrutée par une agence gouvernementale pour mener des missions top secrètes.",
+      "image": "assets/series/serie-6.jpg",
+      "sortie": "2007",
+      "saisons": "1",
+      "episodes": "8",
+      "genre": "Drame, Fantastique, Espionnage",
+      "Trailer": "trailers/series/serie-6.mp4",
+      "serie": "videos/series/serie-6.avi"
+    },
+    {
+      "title": "The Peripheral",
+      "synopsis": "Dans un futur proche, la technologie a commencé à subtilement modifier la société. Flynne Fisher découvre alors une connexion avec une réalité très différente, et le destin très sombre qui l\\'attend...",
+      "image": "assets/series/serie-7.jpg",
+      "sortie": "2022",
+      "saisons": "1",
+      "episodes": "16",
+      "genre": " Science Fiction, Thriller",
+      "Trailer": "trailers/series/serie-7.mp4",
+      "serie": "videos/series/serie-7.avi"
+    },
+    {
+      "title": "Lost in Space",
+      "synopsis": "La famille Robinson a été sélectionnée pour avoir la possibilité de reconstruire leur vie dans un monde meilleur. Mais lorsque les colons font face à des difficultés pour accéder à leur nouveau foyer, ils vont devoir forger de nouvelles alliances et travailler ensemble afin de pouvoir survivre dans cet environnement étranger et hostile se situant à des années-lumière de leur destination initiale",
+      "image": "assets/series/serie-8.jpg",
+      "sortie": "2018",
+      "saisons": "3",
+      "episodes": "28",
+      "genre": " Aventure, Drame, Science Fiction",
+      "Trailer": "trailers/series/serie-8.mp4",
+      "serie": "videos/series/serie-8.avi"
+    },
+    {
+      "title": "The Rain",
+      "synopsis": "Six ans après l\\'apparition d\\'un virus mortel ayant éliminé plus de la moitié de la population, un frère et une sœur partent à la recherche d\\'un abri dans un monde devenu périlleux.",
+      "image": "assets/series/serie-9.jpg",
+      "sortie": "2018",
+      "saisons": "3",
+      "episodes": "20",
+      "genre": "Drame, Science Fiction, Thriller",
+      "Trailer": "trailers/series/serie-9.mp4",
+      "serie": "videos/series/serie-9.avi"
+    },
+    {
+      "title": "Travelers",
+      "synopsis": "Des centaines d\\'années dans le futur, des hommes parviennent à se téléporter au XXIème siècle en prenant pour hôtes des personnes sur le point de mourir. La nouvelle équipe de voyageurs doit remplir un certain nombre de missions pour empêcher la destruction de l\\'humanité à venir. Dans l\\'intervalle, chacun doit se glisser dans la peau de son hôte sans éveiller de soupçons : une jeune maman battue par son époux, un agent du FBI, un junkie, un lycéen et... une déficiente mentale.",
+      "image": "assets/series/serie-10.jpg",
+      "sortie": "2016",
+      "saisons": "3",
+      "episodes": "34",
+      "genre": "Drame, Science Fiction, Thriller",
+      "Trailer": "trailers/series/serie-10.mp4",
+      "serie": "videos/series/serie-10.avi"
+    },
+    {
+      "title": "Echo",
+      "synopsis": "Des jumelles identiques, Leni et Gina, partagent un dangereux secret. Depuis leur enfance, Leni et Gina ont secrètement échangé leurs vies, pour aboutir à une double vie à l\\'âge adulte. Elles partagent deux maisons, deux maris et un enfant, mais tout dans leur monde parfaitement chorégraphié est bouleversé lorsque l\\'une des sœurs disparaît...",
+      "image": "assets/series/serie-11.jpg",
+      "sortie": "2022",
+      "saisons": "1",
+      "episodes": "7",
+      "genre": "Drame, Thriller",
+      "Trailer": "trailers/series/serie-11.mp4",
+      "serie": "videos/series/serie-11.avi"
+    },
+    {
+      "title": "Fear the Wolking Dead",
+      "synopsis": "Madison est conseillère d orientation dans un lycée de Los Angeles. Depuis la mort de son mari, elle élève seule ses deux enfants : Alicia, excellente élève qui découvre les premiers émois amoureux, et son grand frère Nick qui a quitté la fac et cumule les problèmes. Ils n acceptent pas vraiment le nouveau compagnon de leur mère, Travis, professeur dans le même lycée et père divorcé d un jeune adolescent. Autour de cette famille recomposée qui a du mal à recoller les morceaux, d étranges comportements font leur apparition…",
+      "image": "assets/series/serie-12.jpg",
+      "sortie": "2015",
+      "saisons": "8",
+      "episodes": "113",
+      "genre": "Drame, Epouvante-horreur, Thriller",
+      "Trailer": "trailers/series/serie-12.mp4",
+      "serie": "videos/series/serie-12.avi"
+    }
+  ]
+  

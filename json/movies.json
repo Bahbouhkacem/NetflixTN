@@ -1,0 +1,123 @@
+[
+    {
+      "title": "Divergente",
+      "synopsis": "Tris vit dans un monde post-apocalyptique où la société est divisée en cinq clans Audacieux, Érudits, Altruistes, Sincères, Fraternels. À 16 ans, elle doit choisir son appartenance pour le reste de sa vie. Cas rarissime, son test d aptitude n est pas concluant : elle est Divergente.",
+      "image": "assets/movies/movie-1.jpg",
+      "sortie": "2014",
+      "duree": "49min",
+      "genre": "Drame, Science Fiction",
+      "Trailer": "trailers/movies/movie-1.mp4",
+      "movie": "videos/movies/movie-1.avi"
+    },
+    {
+      "title": "Edge of Tomorrow",
+      "synopsis": "Dans un futur proche, des hordes d extraterrestres ont livré une bataille acharnée contre la Terre et semblent désormais invincibles: aucune armée au monde n a réussi à les vaincre. Le commandant William Cage, qui n a jamais combattu de sa vie, est envoyé, sans la moindre explication, dans ce qui ressemble à une mission-suicide. Il meurt en l espace de quelques minutes et se retrouve projeté dans une boucle temporelle, condamné à revivre le même combat et à mourir de nouveau indéfiniment ...",
+      "image": "assets/movies/movie-2.jpg",
+      "sortie": "2014",
+      "duree": "1h 53min",
+      "genre": "Action, Science Fiction",
+      "Trailer": "trailers/movies/movie-2.mp4",
+      "movie": "videos/movies/movie-2.avi"
+    },
+    {
+      "title": "Matrix Resurrections",
+      "synopsis": "MATRIX RESURRECTIONS nous replonge dans deux réalités parallèles  celle de notre quotidien et celle du monde qui s y dissimule. Pour savoir avec certitude si sa réalité propre est une construction physique ou mentale, et pour véritablement se connaître lui-même, M. Anderson devra de nouveau suivre le lapin blanc. Et si Thomas... Neo... a bien appris quelque chose, c est qu une telle décision, quoique illusoire, est la seule manière de s extraire de la Matrice  ou d y entrer... Bien entendu, Neo sait déjà ce qui lui reste à faire. Ce qu il ignore en revanche, c est que la Matrice est plus puissante, plus sécurisée et plus redoutable que jamais. Comme un air de déjà vu...",
+      "image": "assets/movies/movie-3.jpg",
+      "sortie": "2021",
+      "duree": "2h 28min",
+      "genre": "Science Fiction",
+      "Trailer": "trailers/movies/movie-3.mp4",
+      "movie": "videos/movies/movie-3.avi"
+    },
+    {
+      "title": "Interstellar",
+      "synopsis": "Le film raconte les aventures d un groupe d explorateurs qui utilisent une faille récemment découverte dans l espace-temps afin de repousser les limites humaines et partir à la conquête des distances astronomiques dans un voyage interstellaire.",
+      "image": "assets/movies/movie-4.jpg",
+      "sortie": "2014",
+      "duree": "2h 49min",
+      "genre": "Drame, Science Fiction",
+      "Trailer": "trailers/movies/movie-4.mp4",
+      "movie": "videos/movies/movie-4.avi"
+    },
+    {
+      "title": "Avatar 2",
+      "synopsis": "Se déroulant plus d une décennie après les événements relatés dans le premier film, AVATAR : LA VOIE DE L EAU raconte l histoire des membres de la famille Sully (Jake, Neytiri et leurs enfants), les épreuves auxquelles ils sont confrontés, les chemins qu ils doivent emprunter pour se protéger les uns les autres, les batailles qu ils doivent mener pour rester en vie et les tragédies qu ils endurent.",
+      "image": "assets/movies/movie-5.jpg",
+      "sortie": "2022",
+      "duree": "3h 12min",
+      "genre": "Action, Aventure, Fantastique, Science Fiction",
+      "Trailer": "trailers/movies/movie-5.mp4",
+      "movie": "videos/movies/movie-5.avi"
+    },
+    {
+      "title": "Super Mario Bros",
+      "synopsis": "Alors qu ils tentent de réparer une canalisation souterraine, Mario et son frère Luigi, tous deux plombiers, se retrouvent plongés dans un nouvel univers féerique à travers un mystérieux conduit. Mais lorsque les deux frères sont séparés, Mario s engage dans une aventure trépidante pour retrouver Luigi.",
+      "image": "assets/movies/movie-6.jpg",
+      "sortie": "2023",
+      "duree": "1h 32min",
+      "genre": "Animation, Comédie, Famille",
+      "Trailer": "trailers/movies/movie-6.mp4",
+      "movie": "videos/movies/movie-6.avi"
+    },
+    {
+      "title": "Princesse Mononoké",
+      "synopsis": "Japon, XVe siècle. Jadis protégée par des animaux géants, la forêt se dépeuple à cause de l homme. Blessé par un sanglier rendu fou par les démons, le jeune guerrier Ashitaka quitte les siens et part à la recherche du dieu-cerf qui seul pourra défaire le sortilège qui lui gangrène le bras. Au cours de son voyage, Ashitaka rencontre Lady Eboshi, à la tête d une communauté de forgerons, qui doit se défendre contre ceux qui lui reprochent de détruire la forêt pour alimenter ses forges. Parmi ses pires ennemis se trouve San, une jeune fille sauvage élevée par des loups, aussi appelée Princesse Mononoké, la princesse des spectres...",
+      "image": "assets/movies/movie-7.jpg",
+      "sortie": "1968",
+      "duree": "2h 15min",
+      "genre": "Aventure, Animation, Fantastique",
+      "Trailer": "trailers/movies/movie-7.mp4",
+      "movie": "videos/movies/movie-7.avi"
+    },
+    {
+      "title": "Yokai Monsters",
+      "synopsis": "Un promoteur immobilier malfaisant tente brutalement de chasser les habitants d un immeuble et de détruire un sanctuaire voisin. Bien sûr, cela met en colère les monstres Yokai et ils ripostent.",
+      "image": "assets/movies/movie-8.jpg",
+      "sortie": "1968",
+      "duree": "1h 20min",
+      "genre": "horreur",
+      "Trailer": "trailers/movies/movie-8.mp4",
+      "movie": "videos/movies/movie-8.avi"
+    },
+    {
+      "title": "Contagion",
+      "synopsis": "Une pandémie dévastatrice explose à l échelle du globe… Au Centre de Prévention et de Contrôle des Maladies, des équipes se mobilisent pour tenter de décrypter le génome du mystérieux virus, qui ne cesse de muter. Le Sous-Directeur Cheever, confronté à un vent de panique collective, est obligé d exposer la vie d une jeune et courageuse doctoresse. Tandis que les grands groupes pharmaceutiques se livrent une bataille acharnée pour la mise au point d un vaccin, le Dr. Leonora Orantes, de l OMS, s efforce de remonter aux sources du fléau. Les cas mortels se multiplient, jusqu à mettre en péril les fondements de la société, et un blogueur militant suscite une panique aussi dangereuse que le virus en déclarant qu on cache la vérité à la population…",
+      "image": "assets/movies/movie-9.jpg",
+      "sortie": "2011",
+      "duree": "1h 46min",
+      "genre": "Drame, Science Fiction, Thriller",
+      "Trailer": "trailers/movies/movie-9.mp4",
+      "movie": "videos/movies/movie-9.avi"
+    },
+    {
+      "title": "Dune",
+      "synopsis": "L histoire de Paul Atreides, jeune homme aussi doué que brillant, voué à connaître un destin hors du commun qui le dépasse totalement. Car s il veut préserver l avenir de sa famille et de son peuple, il devra se rendre sur la planète la plus dangereuse de l univers – la seule à même de fournir la ressource la plus précieuse au monde, capable de décupler la puissance de l humanité. Tandis que des forces maléfiques se disputent le contrôle de cette planète, seuls ceux qui parviennent à dominer leur peur pourront survivre…",
+      "image": "assets/movies/movie-10.jpg",
+      "sortie": "2024",
+      "duree": "2h 36min",
+      "genre": "Drame, Science Fiction",
+      "Trailer": "trailers/movies/movie-10.mp4",
+      "movie": "videos/movies/movie-10.avi"
+    },
+    {
+      "title": "Inception",
+      "synopsis": "Dom Cobb est un voleur expérimenté – le meilleur qui soit dans l art périlleux de l extraction : sa spécialité consiste à s approprier les secrets les plus précieux d un individu, enfouis au plus profond de son subconscient, pendant qu il rêve et que son esprit est particulièrement vulnérable. Très recherché pour ses talents dans l univers trouble de l espionnage industriel, Cobb est aussi devenu un fugitif traqué dans le monde entier qui a perdu tout ce qui lui est cher. Mais une ultime mission pourrait lui permettre de retrouver sa vie d avant – à condition qu il puisse accomplir l impossible : l inception. Au lieu de subtiliser un rêve, Cobb et son équipe doivent faire l inverse : implanter une idée dans l esprit d un individu. S ils y parviennent, il pourrait s agir du crime parfait. Et pourtant, aussi méthodiques et doués soient-ils, rien n aurait pu préparer Cobb et ses partenaires à un ennemi redoutable qui semble avoir systématiquement un coup d avance sur eux. Un ennemi dont seul Cobb aurait pu soupçonner l existence.",
+      "image": "assets/movies/movie-11.jpg",
+      "sortie": "2010",
+      "duree": "2h 28min",
+      "genre": "Science Fiction, Thriller",
+      "Trailer": "trailers/movies/movie-11.mp4",
+      "movie": "videos/movies/movie-11.avi"
+    },
+    {
+      "title": "Pirates des Caraïbes : le Secret du Coffre Maudit",
+      "synopsis": "Dans ce nouvel opus de l aventure Pirates des Caraïbes, le toujours aussi excentrique pirate Jack Sparrow est confronté subitement à son passé. Treize ans auparavant, Jack signait un pacte avec Davey Jones, le maître des sept mers, dont l esprit maléfique n a d égal que son apparence tentaculaire. En échange de son âme, ce dernier lui promettait le commandement du mythique Black Pearl..",
+      "image": "assets/movies/movie-12.jpg",
+      "sortie": "2006",
+      "duree": "2h 31min",
+      "genre": "Action, Aventure, Fantastique",
+      "Trailer": "trailers/movies/movie-12.mp4",
+      "movie": "videos/movies/movie-12.avi"
+    }
+  ]
+  

@@ -1,0 +1,123 @@
+[
+    {
+      "title": "The Pursuit of Happyness",
+      "synopsis": "Un représentant de commerce en difficulté s'occupe de son fils alors qu'il s'apprête à entamer une carrière professionnelle qui va changer sa vie.",
+      "image": "images/movies/family-1.jpg",
+      "sortie": "2006",
+      "duree": "1h 58min",
+      "genre": "Biopic, Drame",
+      "Trailer": "Trailers/movies/family-1.mp4",
+      "movie": "videos/movies/family-1.avi"
+    },
+    {
+      "title": "Mr. Popper's Penguins",
+      "synopsis": "Enfant, Tommy Popper attendait impatiemment les occasions de parler par radio à son père, un explorateur toujours parti aux quatre coins du monde. Des années plus tard, Popper est devenu un brillant promoteur immobilier à Manhattan. Sa réussite lui a coûté son couple : divorcé d Amanda, il ne voit plus ses enfants qu un week-end sur deux. M. Popper mène une vie solitaire et luxueuse dans son appartement ultramoderne de Park Avenue, et il est sur le point de devenir un des associés de la prestigieuse firme qui l emploie. Mais lorsqu un matin, il reçoit l ultime cadeau de son père décédé – un pingouin vivant, sa vie bascule. En cherchant à se débarrasser de l animal, M. Popper va juste réussir à en récupérer cinq autres. Alors que les adorables bestioles transforment peu à peu son appartement en banquise, M. Popper voit sa vie déraper. Tout va y passer : le contrat de ses rêves, ses relations, sa vie. Mais grâce à six petits pingouins, M. Popper va découvrir que le bonheur peut aussi faire boule de neige…",
+      "image": "images/movies/family-2.jpg",
+      "sortie": "2011",
+      "duree": "1h 34min",
+      "genre": "Comédie, Famille",
+      "Trailer": "Trailers/movies/family-2.mp4",
+      "movie": "videos/movies/family-2.avi"
+    },
+    {
+      "title": "Percy Jackson: Sea of Monsters",
+      "synopsis": "Percy Jackson ne sent pas vraiment l âme d un héros. Même s il a déjà sauvé le monde, ce demi-dieu se demande si ce n était pas tout simplement un coup de bol extraordinaire. Lorsqu il découvre que son demi-frère est un monstre, il commence même à penser qu être le fils de Poséidon est peut-être une malédiction.",
+      "image": "images/movies/family-3.jpg",
+      "sortie": "2013",
+      "duree": "1h 47min",
+      "genre": "Aventure, Fantastique, Famille",
+      "Trailer": "Trailers/movies/family-3.mp4",
+      "movie": "videos/movies/family-3.avi"
+    },
+    {
+      "title": " Sonic the Hedgehog",
+      "synopsis": "Un flic de Green Hills, ville de campagne, aidera Sonic de s'échapper du gouvernement qui essaie de l'incarcérer.",
+      "image": "images/movies/family-4.jpg",
+      "sortie": "2020",
+      "duree": "1h 39min",
+      "genre": "Aventure, Action, Comédie",
+      "Trailer": "Trailers/movies/family-4.mp4",
+      "movie": "videos/movies/family-4.avi"
+    },
+    {
+      "title": "The Monkey King",
+      "synopsis": "Une nouvelle adaptation de la légende chinoise du singe qui gagne des super pouvoirs.",
+      "image": "images/movies/family-5.jpg",
+      "sortie": "2023",
+      "duree": "1h 36min",
+      "genre": "Action, Animation, Comédie, Famille, Fantastique",
+      "Trailer": "Trailers/movies/family-5.mp4",
+      "movie": "videos/movies/family-5.avi"
+    },
+    {
+      "title": "Dr. Dolittle",
+      "synopsis": "Quand il était enfant, le fringant Dr. John Dolittle possédait un don merveilleux, celui de communiquer avec les animaux. Quand son père s'en aperçoit, il y met immédiatement bon ordre et le petit John se mit à travailler à l'école et oublia ce pouvoir. Mais voilà qu'après avoir refoulé pendant des années la plus précieuse de ses facultés, Dolittle la redécouvre un soir où il manque d'écraser un chien errant et s'entend distinctement traiter de chauffard par l'animal offusqué...",
+      "image": "images/movies/family-6.jpg",
+      "sortie": "1998",
+      "duree": "1h 30min",
+      "genre": "Comédie, Famille, Fantastique",
+      "Trailer": "Trailers/movies/family-6.mp4",
+      "movie": "videos/movies/family-6.avi"
+    },
+    {
+      "title": "Slumberland",
+      "synopsis": "Accompagnée d'un hors-la-loi extravagant, une jeune orpheline intrépide voyage dans le monde des rêves pour trouver une perle qui exaucera son vœu le plus cher.",
+      "image": "images/movies/family-7.jpg",
+      "sortie": "2022",
+      "duree": "1h 57min",
+      "genre": "Aventure, Famille, Fantastique",
+      "Trailer": "Trailers/movies/family-7.mp4",
+      "movie": "videos/movies/family-7.avi"
+    },
+    {
+      "title": "Raya and the Last Dragon",
+      "synopsis": "Il y a de cela fort longtemps, au royaume imaginaire de Kumandra, humains et dragons vivaient en harmonie. Mais un jour, une force maléfique s abattit sur le royaume et les dragons se sacrifièrent pour sauver l humanité.",
+      "image": "images/movies/family-8.jpg",
+      "sortie": "2021",
+      "duree": "1h 47min",
+      "genre": "Aventure, Famille",
+      "Trailer": "Trailers/movies/family-8.mp4",
+      "movie": "videos/movies/family-8.avi"
+    },
+    {
+      "title": "Mary Poppins Returns",
+      "synopsis": "Michael Banks travaille à la banque où son père était employé, et il vit toujours au 17 allée des Cerisiers avec ses trois enfants, Annabel, Georgie et John, et leur gouvernante Ellen. Comme sa mère avant elle, Jane Banks se bat pour les droits des ouvriers et apporte son aide à la famille de Michael. Lorsque la famille subit une perte tragique, Mary Poppins réapparaît magiquement dans la vie de la famille. Avec l aide de Jack, l allumeur de réverbères toujours optimiste, Mary va tout faire pour que la joie et l émerveillement reviennent dans leur existence… Elle leur fera aussi découvrir de tout nouveaux personnages plein de fantaisie, dont sa cousine, l excentrique Topsy.",
+      "image": "images/movies/family-9.jpg",
+      "sortie": "2018",
+      "duree": "2h 11min",
+      "genre": "Fantastique, Comédie musicale",
+      "Trailer": "Trailers/movies/family-9.mp4",
+      "movie": "videos/movies/family-9.avi"
+    },
+    {
+      "title": "Finding Ohana",
+      "synopsis": "En vacances d'été dans un village d'Oahu, un frère et une sœur de Brooklyn se lancent sur les traces d'un trésor perdu au fil d'une aventure épique avec de nouveaux amis.",
+      "image": "images/movies/family-10.jpg",
+      "sortie": "2021",
+      "duree": "2h 03min",
+      "genre": "Aventure, Comédie, Famille",
+      "Trailer": "Trailers/movies/family-10.mp4",
+      "movie": "videos/movies/family-10.avi"
+    },
+    {
+      "title": "Howl s Moving Castle",
+      "synopsis": "La jeune Sophie, 18 ans, travaille inlassablement dans la chapellerie autrefois tenue par son père, malheureusement décédé. Résignée à son sort, c est lors de l une de ses rares sorties en ville qu elle fait la connaissance du beau Hauru, un magicien. Mais la sorcière des Landes, jalouse de cette rencontre, jette un sort à Sophie, la transformant en vieille dame. Accablée par sa nouvelle apparence, Sophie s enfuit dans les montagnes et tombe sur la demeure de Hauru : son Château Ambulant. Et si tout ceci n était que le commencement d une merveilleuse histoire ?",
+      "image": "images/movies/family-11.jpg",
+      "sortie": "2004",
+      "duree": "1h 59min",
+      "genre": "Aventure, Animation, Fantastique",
+      "Trailer": "Trailers/movies/family-11.mp4",
+      "movie": "videos/movies/family-11.avi"
+    },
+    {
+      "title": "Cat & Dog",
+      "synopsis": "Diva, célèbre chat star des réseaux sociaux et Chichi, chien des rues, perdent leur maître respectif. Commence alors un voyage déjanté entre Montréal et New York avec d un côté les humains qui ont perdu la trace de leurs animaux et de l autre, les animaux livrés à eux-mêmes pour retrouver leurs maîtres…",
+      "image": "images/movies/family-12.jpg",
+      "sortie": "2024",
+      "duree": "1h 26min",
+      "genre": "Aventure, Comédie, Famille",
+      "Trailer": "Trailers/movies/family-12.mp4",
+      "movie": "videos/movies/family-12.avi"
+    }
+  ]
+  
